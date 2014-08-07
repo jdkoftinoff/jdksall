@@ -1,0 +1,42 @@
+[submodule "jdksaa"]
+	path = jdksaa
+	url = ../jdksaa
+[submodule "jdksacmp"]
+	path = jdksacmp
+	url = ../jdksacmp
+[submodule "jdksadp"]
+	path = jdksadp
+	url = ../jdksadp
+[submodule "jdksaecp"]
+	path = jdksaecp
+	url = ../jdksaecp
+[submodule "jdksaem"]
+	path = jdksaem
+	url = ../jdksaem
+[submodule "jdksapp"]
+	path = jdksapp
+	url = ../jdksapp
+[submodule "jdksavdecc-c"]
+	path = jdksavdecc-c
+	url = ../jdksavdecc-c
+[submodule "jdksgptp"]
+	path = jdksgptp
+	url = ../jdksgptp
+[submodule "jdksmaap"]
+	path = jdksmaap
+	url = ../jdksmaap
+[submodule "jdksmgr"]
+	path = jdksmgr
+	url = ../jdksmgr
+[submodule "jdksnet"]
+	path = jdksnet
+	url = ../jdksnet
+[submodule "jdkspkt"]
+	path = jdkspkt
+	url = ../jdkspkt
+[submodule "jdkssrp"]
+	path = jdkssrp
+	url = ../jdkssrp
+[submodule "microsupport"]
+	path = microsupport
+	url = ../microsupport
