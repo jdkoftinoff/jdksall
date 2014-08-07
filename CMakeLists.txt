@@ -1,0 +1,18 @@
+cmake_minimum_required (VERSION 2.8) 
+project (jdksall)
+add_subdirectory("jdksavdecc-c")
+add_subdirectory("microsupport")
+add_subdirectory("jdksnet")
+add_subdirectory("jdksmaap")
+add_subdirectory("jdksgptp")
+add_subdirectory("jdksadp") 
+add_subdirectory("jdksacmp") 
+add_subdirectory("jdksapp") 
+add_subdirectory("jdksaecp") 
+add_subdirectory("jdksaa") 
+add_subdirectory("jdkssrp")
+add_subdirectory("jdksaem") 
+add_subdirectory("jdkspkt") 
+add_subdirectory("jdksmgr")
+ 
+
