@@ -1,42 +1,58 @@
 [submodule "jdksaa"]
 	path = jdksaa
 	url = ../jdksaa
+	branch = devel
 [submodule "jdksacmp"]
 	path = jdksacmp
 	url = ../jdksacmp
+	branch = devel
 [submodule "jdksadp"]
 	path = jdksadp
 	url = ../jdksadp
+	branch = devel
 [submodule "jdksaecp"]
 	path = jdksaecp
 	url = ../jdksaecp
+	branch = devel
 [submodule "jdksaem"]
 	path = jdksaem
 	url = ../jdksaem
+	branch = devel
 [submodule "jdksapp"]
 	path = jdksapp
 	url = ../jdksapp
+	branch = devel
 [submodule "jdksavdecc-c"]
 	path = jdksavdecc-c
 	url = ../jdksavdecc-c
+	branch = devel
 [submodule "jdksgptp"]
 	path = jdksgptp
 	url = ../jdksgptp
+	branch = devel
 [submodule "jdksmaap"]
 	path = jdksmaap
 	url = ../jdksmaap
+	branch = devel
 [submodule "jdksmgr"]
 	path = jdksmgr
 	url = ../jdksmgr
+	branch = devel
 [submodule "jdksnet"]
 	path = jdksnet
 	url = ../jdksnet
+	branch = devel
 [submodule "jdkspkt"]
 	path = jdkspkt
 	url = ../jdkspkt
+	branch = devel
 [submodule "jdkssrp"]
 	path = jdkssrp
 	url = ../jdkssrp
+	branch = devel
 [submodule "microsupport"]
 	path = microsupport
 	url = ../microsupport
+	branch = devel
+[submodule "CMakeLists.txt"]
+	branch = devel
