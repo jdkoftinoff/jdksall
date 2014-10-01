@@ -56,3 +56,7 @@
 	branch = devel
 [submodule "CMakeLists.txt"]
 	branch = devel
+[submodule "pools"]
+	path = pools
+	url = ../pools.git
+	branch = devel
