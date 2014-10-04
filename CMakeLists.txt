@@ -1,5 +1,6 @@
 cmake_minimum_required (VERSION 2.8) 
 project (jdksall)
+enable_testing()
 add_subdirectory("jdksavdecc-c")
 add_subdirectory("microsupport")
 add_subdirectory("pools")
