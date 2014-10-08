@@ -62,5 +62,5 @@
 	branch = devel
 [submodule "jdksavdecc-mcu"]
 	path = jdksavdecc-mcu
-	url = ../JDKSAvdeccArduino.git
+	url = ../jdksavdecc-mcu.git
 	branch = separate
