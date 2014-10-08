@@ -295,6 +295,33 @@
 		BF29704B19E0A6E700A8DCEF /* us_webapp_json.c in Sources */ = {isa = PBXBuildFile; fileRef = BF296FD019E0A6E200A8DCEF /* us_webapp_json.c */; };
 		BF29704C19E0A6E700A8DCEF /* us_webapp.c in Sources */ = {isa = PBXBuildFile; fileRef = BF296FD119E0A6E200A8DCEF /* us_webapp.c */; };
 		BF29704D19E0A6E700A8DCEF /* us_world.c in Sources */ = {isa = PBXBuildFile; fileRef = BF296FD219E0A6E200A8DCEF /* us_world.c */; };
+		BFDBFFBE19E59A31006F82A2 /* JDKSAvdeccADPManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFB219E59A31006F82A2 /* JDKSAvdeccADPManager.cpp */; };
+		BFDBFFBF19E59A31006F82A2 /* JDKSAvdeccControllerEntity.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFB319E59A31006F82A2 /* JDKSAvdeccControllerEntity.cpp */; };
+		BFDBFFC019E59A31006F82A2 /* JDKSAvdeccControlReceiver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFB419E59A31006F82A2 /* JDKSAvdeccControlReceiver.cpp */; };
+		BFDBFFC119E59A31006F82A2 /* JDKSAvdeccControlSender.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFB519E59A31006F82A2 /* JDKSAvdeccControlSender.cpp */; };
+		BFDBFFC219E59A31006F82A2 /* JDKSAvdeccControlValueHolder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFB619E59A31006F82A2 /* JDKSAvdeccControlValueHolder.cpp */; };
+		BFDBFFC319E59A31006F82A2 /* JDKSAvdeccEEPromStorage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFB719E59A31006F82A2 /* JDKSAvdeccEEPromStorage.cpp */; };
+		BFDBFFC419E59A31006F82A2 /* JDKSAvdeccEntity.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFB819E59A31006F82A2 /* JDKSAvdeccEntity.cpp */; };
+		BFDBFFC519E59A31006F82A2 /* JDKSAvdeccHandler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFB919E59A31006F82A2 /* JDKSAvdeccHandler.cpp */; };
+		BFDBFFC619E59A31006F82A2 /* JDKSAvdeccHandlerGroup.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFBA19E59A31006F82A2 /* JDKSAvdeccHandlerGroup.cpp */; };
+		BFDBFFC719E59A31006F82A2 /* JDKSAvdeccHelpers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFBB19E59A31006F82A2 /* JDKSAvdeccHelpers.cpp */; };
+		BFDBFFC819E59A31006F82A2 /* JDKSAvdeccNetIO.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFBC19E59A31006F82A2 /* JDKSAvdeccNetIO.cpp */; };
+		BFDBFFC919E59A31006F82A2 /* JDKSAvdeccWizNetIO.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFDBFFBD19E59A31006F82A2 /* JDKSAvdeccWizNetIO.cpp */; };
+		BFDBFFD919E59A41006F82A2 /* JDKSAvdeccADPManager.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFCA19E59A41006F82A2 /* JDKSAvdeccADPManager.hpp */; };
+		BFDBFFDA19E59A41006F82A2 /* JDKSAvdeccControllerEntity.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFCB19E59A41006F82A2 /* JDKSAvdeccControllerEntity.hpp */; };
+		BFDBFFDB19E59A41006F82A2 /* JDKSAvdeccControlReceiver.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFCC19E59A41006F82A2 /* JDKSAvdeccControlReceiver.hpp */; };
+		BFDBFFDC19E59A41006F82A2 /* JDKSAvdeccControlSender.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFCD19E59A41006F82A2 /* JDKSAvdeccControlSender.hpp */; };
+		BFDBFFDD19E59A41006F82A2 /* JDKSAvdeccControlValueHolder.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFCE19E59A41006F82A2 /* JDKSAvdeccControlValueHolder.hpp */; };
+		BFDBFFDE19E59A41006F82A2 /* JDKSAvdeccEEPromStorage.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFCF19E59A41006F82A2 /* JDKSAvdeccEEPromStorage.hpp */; };
+		BFDBFFDF19E59A41006F82A2 /* JDKSAvdeccEntity.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFD019E59A41006F82A2 /* JDKSAvdeccEntity.hpp */; };
+		BFDBFFE019E59A41006F82A2 /* JDKSAvdeccFrame.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFD119E59A41006F82A2 /* JDKSAvdeccFrame.hpp */; };
+		BFDBFFE119E59A41006F82A2 /* JDKSAvdeccHandler.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFD219E59A41006F82A2 /* JDKSAvdeccHandler.hpp */; };
+		BFDBFFE219E59A41006F82A2 /* JDKSAvdeccHandlerGroup.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFD319E59A41006F82A2 /* JDKSAvdeccHandlerGroup.hpp */; };
+		BFDBFFE319E59A41006F82A2 /* JDKSAvdeccHelpers.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFD419E59A41006F82A2 /* JDKSAvdeccHelpers.hpp */; };
+		BFDBFFE419E59A41006F82A2 /* JDKSAvdeccNetIO.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFD519E59A41006F82A2 /* JDKSAvdeccNetIO.hpp */; };
+		BFDBFFE519E59A41006F82A2 /* JDKSAvdeccSimple.h in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFD619E59A41006F82A2 /* JDKSAvdeccSimple.h */; };
+		BFDBFFE619E59A41006F82A2 /* JDKSAvdeccWizNetIO.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFD719E59A41006F82A2 /* JDKSAvdeccWizNetIO.hpp */; };
+		BFDBFFE719E59A41006F82A2 /* JDKSAvdeccWorld.hpp in Headers */ = {isa = PBXBuildFile; fileRef = BFDBFFD819E59A41006F82A2 /* JDKSAvdeccWorld.hpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -587,6 +614,33 @@
 		BF296FD019E0A6E200A8DCEF /* us_webapp_json.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = us_webapp_json.c; path = ../../microsupport/src/us_webapp_json.c; sourceTree = "<group>"; };
 		BF296FD119E0A6E200A8DCEF /* us_webapp.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = us_webapp.c; path = ../../microsupport/src/us_webapp.c; sourceTree = "<group>"; };
 		BF296FD219E0A6E200A8DCEF /* us_world.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = us_world.c; path = ../../microsupport/src/us_world.c; sourceTree = "<group>"; };
+		BFDBFFB219E59A31006F82A2 /* JDKSAvdeccADPManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccADPManager.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccADPManager.cpp"; sourceTree = "<group>"; };
+		BFDBFFB319E59A31006F82A2 /* JDKSAvdeccControllerEntity.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccControllerEntity.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccControllerEntity.cpp"; sourceTree = "<group>"; };
+		BFDBFFB419E59A31006F82A2 /* JDKSAvdeccControlReceiver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccControlReceiver.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccControlReceiver.cpp"; sourceTree = "<group>"; };
+		BFDBFFB519E59A31006F82A2 /* JDKSAvdeccControlSender.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccControlSender.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccControlSender.cpp"; sourceTree = "<group>"; };
+		BFDBFFB619E59A31006F82A2 /* JDKSAvdeccControlValueHolder.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccControlValueHolder.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccControlValueHolder.cpp"; sourceTree = "<group>"; };
+		BFDBFFB719E59A31006F82A2 /* JDKSAvdeccEEPromStorage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccEEPromStorage.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccEEPromStorage.cpp"; sourceTree = "<group>"; };
+		BFDBFFB819E59A31006F82A2 /* JDKSAvdeccEntity.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccEntity.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccEntity.cpp"; sourceTree = "<group>"; };
+		BFDBFFB919E59A31006F82A2 /* JDKSAvdeccHandler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccHandler.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccHandler.cpp"; sourceTree = "<group>"; };
+		BFDBFFBA19E59A31006F82A2 /* JDKSAvdeccHandlerGroup.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccHandlerGroup.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccHandlerGroup.cpp"; sourceTree = "<group>"; };
+		BFDBFFBB19E59A31006F82A2 /* JDKSAvdeccHelpers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccHelpers.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccHelpers.cpp"; sourceTree = "<group>"; };
+		BFDBFFBC19E59A31006F82A2 /* JDKSAvdeccNetIO.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccNetIO.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccNetIO.cpp"; sourceTree = "<group>"; };
+		BFDBFFBD19E59A31006F82A2 /* JDKSAvdeccWizNetIO.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JDKSAvdeccWizNetIO.cpp; path = "../../jdksavdecc-mcu/JDKSAvdeccWizNetIO.cpp"; sourceTree = "<group>"; };
+		BFDBFFCA19E59A41006F82A2 /* JDKSAvdeccADPManager.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccADPManager.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccADPManager.hpp"; sourceTree = "<group>"; };
+		BFDBFFCB19E59A41006F82A2 /* JDKSAvdeccControllerEntity.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccControllerEntity.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccControllerEntity.hpp"; sourceTree = "<group>"; };
+		BFDBFFCC19E59A41006F82A2 /* JDKSAvdeccControlReceiver.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccControlReceiver.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccControlReceiver.hpp"; sourceTree = "<group>"; };
+		BFDBFFCD19E59A41006F82A2 /* JDKSAvdeccControlSender.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccControlSender.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccControlSender.hpp"; sourceTree = "<group>"; };
+		BFDBFFCE19E59A41006F82A2 /* JDKSAvdeccControlValueHolder.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccControlValueHolder.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccControlValueHolder.hpp"; sourceTree = "<group>"; };
+		BFDBFFCF19E59A41006F82A2 /* JDKSAvdeccEEPromStorage.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccEEPromStorage.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccEEPromStorage.hpp"; sourceTree = "<group>"; };
+		BFDBFFD019E59A41006F82A2 /* JDKSAvdeccEntity.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccEntity.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccEntity.hpp"; sourceTree = "<group>"; };
+		BFDBFFD119E59A41006F82A2 /* JDKSAvdeccFrame.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccFrame.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccFrame.hpp"; sourceTree = "<group>"; };
+		BFDBFFD219E59A41006F82A2 /* JDKSAvdeccHandler.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccHandler.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccHandler.hpp"; sourceTree = "<group>"; };
+		BFDBFFD319E59A41006F82A2 /* JDKSAvdeccHandlerGroup.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccHandlerGroup.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccHandlerGroup.hpp"; sourceTree = "<group>"; };
+		BFDBFFD419E59A41006F82A2 /* JDKSAvdeccHelpers.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccHelpers.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccHelpers.hpp"; sourceTree = "<group>"; };
+		BFDBFFD519E59A41006F82A2 /* JDKSAvdeccNetIO.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccNetIO.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccNetIO.hpp"; sourceTree = "<group>"; };
+		BFDBFFD619E59A41006F82A2 /* JDKSAvdeccSimple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JDKSAvdeccSimple.h; path = "../../jdksavdecc-mcu/JDKSAvdeccSimple.h"; sourceTree = "<group>"; };
+		BFDBFFD719E59A41006F82A2 /* JDKSAvdeccWizNetIO.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccWizNetIO.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccWizNetIO.hpp"; sourceTree = "<group>"; };
+		BFDBFFD819E59A41006F82A2 /* JDKSAvdeccWorld.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = JDKSAvdeccWorld.hpp; path = "../../jdksavdecc-mcu/JDKSAvdeccWorld.hpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -674,6 +728,21 @@
 				BF296E4119E0A6C800A8DCEF /* jdksavdecc_util.h */,
 				BF296E4219E0A6C800A8DCEF /* jdksavdecc_world.h */,
 				BF296E4319E0A6C800A8DCEF /* jdksavdecc.h */,
+				BFDBFFCA19E59A41006F82A2 /* JDKSAvdeccADPManager.hpp */,
+				BFDBFFCB19E59A41006F82A2 /* JDKSAvdeccControllerEntity.hpp */,
+				BFDBFFCC19E59A41006F82A2 /* JDKSAvdeccControlReceiver.hpp */,
+				BFDBFFCD19E59A41006F82A2 /* JDKSAvdeccControlSender.hpp */,
+				BFDBFFCE19E59A41006F82A2 /* JDKSAvdeccControlValueHolder.hpp */,
+				BFDBFFCF19E59A41006F82A2 /* JDKSAvdeccEEPromStorage.hpp */,
+				BFDBFFD019E59A41006F82A2 /* JDKSAvdeccEntity.hpp */,
+				BFDBFFD119E59A41006F82A2 /* JDKSAvdeccFrame.hpp */,
+				BFDBFFD219E59A41006F82A2 /* JDKSAvdeccHandler.hpp */,
+				BFDBFFD319E59A41006F82A2 /* JDKSAvdeccHandlerGroup.hpp */,
+				BFDBFFD419E59A41006F82A2 /* JDKSAvdeccHelpers.hpp */,
+				BFDBFFD519E59A41006F82A2 /* JDKSAvdeccNetIO.hpp */,
+				BFDBFFD619E59A41006F82A2 /* JDKSAvdeccSimple.h */,
+				BFDBFFD719E59A41006F82A2 /* JDKSAvdeccWizNetIO.hpp */,
+				BFDBFFD819E59A41006F82A2 /* JDKSAvdeccWorld.hpp */,
 				BF296E4419E0A6C800A8DCEF /* jdksgptp_world.h */,
 				BF296E4519E0A6C800A8DCEF /* jdksgptp.h */,
 				BF296E4619E0A6C800A8DCEF /* jdksmaap_world.h */,
@@ -822,6 +891,18 @@
 				BF296F7319E0A6E200A8DCEF /* jdksavdecc_print.c */,
 				BF296F7419E0A6E200A8DCEF /* jdksavdecc_util.c */,
 				BF296F7519E0A6E200A8DCEF /* jdksavdecc.c */,
+				BFDBFFB219E59A31006F82A2 /* JDKSAvdeccADPManager.cpp */,
+				BFDBFFB319E59A31006F82A2 /* JDKSAvdeccControllerEntity.cpp */,
+				BFDBFFB419E59A31006F82A2 /* JDKSAvdeccControlReceiver.cpp */,
+				BFDBFFB519E59A31006F82A2 /* JDKSAvdeccControlSender.cpp */,
+				BFDBFFB619E59A31006F82A2 /* JDKSAvdeccControlValueHolder.cpp */,
+				BFDBFFB719E59A31006F82A2 /* JDKSAvdeccEEPromStorage.cpp */,
+				BFDBFFB819E59A31006F82A2 /* JDKSAvdeccEntity.cpp */,
+				BFDBFFB919E59A31006F82A2 /* JDKSAvdeccHandler.cpp */,
+				BFDBFFBA19E59A31006F82A2 /* JDKSAvdeccHandlerGroup.cpp */,
+				BFDBFFBB19E59A31006F82A2 /* JDKSAvdeccHelpers.cpp */,
+				BFDBFFBC19E59A31006F82A2 /* JDKSAvdeccNetIO.cpp */,
+				BFDBFFBD19E59A31006F82A2 /* JDKSAvdeccWizNetIO.cpp */,
 				BF296F7619E0A6E200A8DCEF /* jdksgptp.c */,
 				BF296F7719E0A6E200A8DCEF /* jdksmaap.c */,
 				BF296F7819E0A6E200A8DCEF /* jdksmgr.c */,
@@ -945,6 +1026,7 @@
 				BF296EE519E0A6C900A8DCEF /* jdksavdecc_print.h in Headers */,
 				BF296F5619E0A6D100A8DCEF /* us_world.hpp in Headers */,
 				BF296F5019E0A6D100A8DCEF /* us_trie_dump.h in Headers */,
+				BFDBFFDB19E59A41006F82A2 /* JDKSAvdeccControlReceiver.hpp in Headers */,
 				BF296F2B19E0A6CD00A8DCEF /* us_parse.h in Headers */,
 				BF296EB619E0A6C800A8DCEF /* jdksacmp.h in Headers */,
 				BF296EDE19E0A6C900A8DCEF /* jdksavdecc_maap.h in Headers */,
@@ -970,10 +1052,12 @@
 				BF296EFD19E0A6CA00A8DCEF /* pool.h in Headers */,
 				BF296F1519E0A6CC00A8DCEF /* us_mdns_avahi.h in Headers */,
 				BF296F4B19E0A6D000A8DCEF /* us_test_slip_main.h in Headers */,
+				BFDBFFDA19E59A41006F82A2 /* JDKSAvdeccControllerEntity.hpp in Headers */,
 				BF296EE619E0A6C900A8DCEF /* jdksavdecc_util.h in Headers */,
 				BF296F4F19E0A6D000A8DCEF /* us_time.h in Headers */,
 				BF296F2819E0A6CD00A8DCEF /* us_packet_queue.hpp in Headers */,
 				BF296F0A19E0A6CB00A8DCEF /* us_http_client.h in Headers */,
+				BFDBFFD919E59A41006F82A2 /* JDKSAvdeccADPManager.hpp in Headers */,
 				BF296EBD19E0A6C800A8DCEF /* jdksapc_signals.h in Headers */,
 				BF296F0819E0A6CB00A8DCEF /* us_daemon.h in Headers */,
 				BF296EC819E0A6C900A8DCEF /* jdksavdecc_adp_print.h in Headers */,
@@ -988,15 +1072,19 @@
 				BF296ED719E0A6C900A8DCEF /* jdksavdecc_control.h in Headers */,
 				BF296F2719E0A6CD00A8DCEF /* us_packet_queue.h in Headers */,
 				BF296EF719E0A6CA00A8DCEF /* jdksnet_world.h in Headers */,
+				BFDBFFDF19E59A41006F82A2 /* JDKSAvdeccEntity.hpp in Headers */,
 				BF296EEF19E0A6CA00A8DCEF /* jdksnet_packet_signals.h in Headers */,
 				BF296F1A19E0A6CC00A8DCEF /* us_mtc_parser.h in Headers */,
 				BF296EE019E0A6C900A8DCEF /* jdksavdecc_msinttypes.h in Headers */,
+				BFDBFFE419E59A41006F82A2 /* JDKSAvdeccNetIO.hpp in Headers */,
 				BF296F0519E0A6CB00A8DCEF /* us_buffer.h in Headers */,
 				BF296EED19E0A6CA00A8DCEF /* jdksmgr_world.h in Headers */,
 				BF296F4C19E0A6D000A8DCEF /* us_test_trie_main.h in Headers */,
 				BF296EE219E0A6C900A8DCEF /* jdksavdecc_pdu_print.h in Headers */,
+				BFDBFFDD19E59A41006F82A2 /* JDKSAvdeccControlValueHolder.hpp in Headers */,
 				BF296F1319E0A6CC00A8DCEF /* us_logger_udp.h in Headers */,
 				BF296F3C19E0A6CF00A8DCEF /* us_test_getopt_main.h in Headers */,
+				BFDBFFE219E59A41006F82A2 /* JDKSAvdeccHandlerGroup.hpp in Headers */,
 				BF296F4619E0A6D000A8DCEF /* us_test_osc_io_main.h in Headers */,
 				BF296F1D19E0A6CC00A8DCEF /* us_net.h in Headers */,
 				BF296F4E19E0A6D000A8DCEF /* us_testutil.h in Headers */,
@@ -1018,6 +1106,7 @@
 				BF296ED019E0A6C900A8DCEF /* jdksavdecc_aecp.h in Headers */,
 				BF296EE419E0A6C900A8DCEF /* jdksavdecc_plus.hpp in Headers */,
 				BF296F4119E0A6CF00A8DCEF /* us_test_line_parse_main.h in Headers */,
+				BFDBFFE619E59A41006F82A2 /* JDKSAvdeccWizNetIO.hpp in Headers */,
 				BF296F5519E0A6D100A8DCEF /* us_world.h in Headers */,
 				BF296ECD19E0A6C900A8DCEF /* jdksavdecc_aecp_hdcp_apm.h in Headers */,
 				BF296EF819E0A6CA00A8DCEF /* jdksnet.h in Headers */,
@@ -1048,18 +1137,22 @@
 				BF296F0C19E0A6CB00A8DCEF /* us_http.h in Headers */,
 				BF296EFC19E0A6CA00A8DCEF /* jdkssrp.h in Headers */,
 				BF296F3719E0A6CE00A8DCEF /* us_slip.h in Headers */,
+				BFDBFFE019E59A41006F82A2 /* JDKSAvdeccFrame.hpp in Headers */,
 				BF296F2F19E0A6CE00A8DCEF /* us_rawnet_multi.h in Headers */,
+				BFDBFFDC19E59A41006F82A2 /* JDKSAvdeccControlSender.hpp in Headers */,
 				BF296F3619E0A6CE00A8DCEF /* us_serial.h in Headers */,
 				BF296ECF19E0A6C900A8DCEF /* jdksavdecc_aecp_vendor.h in Headers */,
 				BF296EBE19E0A6C800A8DCEF /* jdksapc_slots.h in Headers */,
 				BF296F3D19E0A6CF00A8DCEF /* us_test_http_client_main.h in Headers */,
 				BF296F2E19E0A6CE00A8DCEF /* us_queue.h in Headers */,
 				BF296F3B19E0A6CF00A8DCEF /* us_test_buffer_main.h in Headers */,
+				BFDBFFE719E59A41006F82A2 /* JDKSAvdeccWorld.hpp in Headers */,
 				BF296ED519E0A6C900A8DCEF /* jdksavdecc_app.h in Headers */,
 				BF296F4719E0A6D000A8DCEF /* us_test_osc_line_main.h in Headers */,
 				BF296EDA19E0A6C900A8DCEF /* jdksavdecc_entity_model.h in Headers */,
 				BF296EE319E0A6C900A8DCEF /* jdksavdecc_pdu.h in Headers */,
 				BF296F1419E0A6CC00A8DCEF /* us_logger.h in Headers */,
+				BFDBFFE119E59A41006F82A2 /* JDKSAvdeccHandler.hpp in Headers */,
 				BF296F0219E0A6CB00A8DCEF /* us_allocator.h in Headers */,
 				BF296ECB19E0A6C900A8DCEF /* jdksavdecc_aecp_aem.h in Headers */,
 				BF296EF219E0A6CA00A8DCEF /* jdksnet_rawsock.h in Headers */,
@@ -1073,13 +1166,16 @@
 				BF296EC219E0A6C900A8DCEF /* jdksapp.h in Headers */,
 				BF296EBF19E0A6C800A8DCEF /* jdksapc.h in Headers */,
 				BF296F0B19E0A6CB00A8DCEF /* us_http_server.h in Headers */,
+				BFDBFFDE19E59A41006F82A2 /* JDKSAvdeccEEPromStorage.hpp in Headers */,
 				BF296EDC19E0A6C900A8DCEF /* jdksavdecc_jdks.h in Headers */,
 				BF296EC419E0A6C900A8DCEF /* jdksaps_slots.h in Headers */,
 				BF296EF619E0A6CA00A8DCEF /* jdksnet_udp.h in Headers */,
+				BFDBFFE319E59A41006F82A2 /* JDKSAvdeccHelpers.hpp in Headers */,
 				BF296F2C19E0A6CD00A8DCEF /* us_platform.h in Headers */,
 				BF296EFB19E0A6CA00A8DCEF /* jdkssrp_world.h in Headers */,
 				BF296EFE19E0A6CA00A8DCEF /* pools.h in Headers */,
 				BF296F0419E0A6CB00A8DCEF /* us_buffer_print.h in Headers */,
+				BFDBFFE519E59A41006F82A2 /* JDKSAvdeccSimple.h in Headers */,
 				BF296EFF19E0A6CA00A8DCEF /* PoolsAllocator.hpp in Headers */,
 				BF296EC119E0A6C800A8DCEF /* jdksapp_world.h in Headers */,
 				BF296F1919E0A6CC00A8DCEF /* us_msstdint.h in Headers */,
@@ -1160,6 +1256,7 @@
 				BF29701B19E0A6E500A8DCEF /* us_osc_sender_tcp.c in Sources */,
 				BF29704C19E0A6E700A8DCEF /* us_webapp.c in Sources */,
 				BF296FF919E0A6E300A8DCEF /* jdkspkt.c in Sources */,
+				BFDBFFC019E59A31006F82A2 /* JDKSAvdeccControlReceiver.cpp in Sources */,
 				BF29701619E0A6E400A8DCEF /* us_osc_dispatch.c in Sources */,
 				BF296FED19E0A6E300A8DCEF /* jdksavdecc_plus.cpp in Sources */,
 				BF29700519E0A6E400A8DCEF /* us_http_client.c in Sources */,
@@ -1177,10 +1274,13 @@
 				BF29700919E0A6E400A8DCEF /* us_json.c in Sources */,
 				BF296FDC19E0A6E200A8DCEF /* jdksavdecc_acmp_print.c in Sources */,
 				BF29703819E0A6E600A8DCEF /* us_test_line_parse_main.c in Sources */,
+				BFDBFFC419E59A31006F82A2 /* JDKSAvdeccEntity.cpp in Sources */,
 				BF296FE619E0A6E300A8DCEF /* jdksavdecc_entity_model.c in Sources */,
 				BF296FE219E0A6E200A8DCEF /* jdksavdecc_app.c in Sources */,
 				BF296FE019E0A6E200A8DCEF /* jdksavdecc_aem_print.c in Sources */,
+				BFDBFFC919E59A31006F82A2 /* JDKSAvdeccWizNetIO.cpp in Sources */,
 				BF29703C19E0A6E600A8DCEF /* us_test_osc_dispatch_main.c in Sources */,
+				BFDBFFC519E59A31006F82A2 /* JDKSAvdeccHandler.cpp in Sources */,
 				BF29702719E0A6E500A8DCEF /* us_rawnet.c in Sources */,
 				BF29703E19E0A6E600A8DCEF /* us_test_osc_line_main.c in Sources */,
 				BF29700319E0A6E400A8DCEF /* us_crc32.c in Sources */,
@@ -1189,6 +1289,7 @@
 				BF29700819E0A6E400A8DCEF /* us_json_parser.c in Sources */,
 				BF29701219E0A6E400A8DCEF /* us_mtc_parser.c in Sources */,
 				BF296FF019E0A6E300A8DCEF /* jdksavdecc.c in Sources */,
+				BFDBFFBF19E59A31006F82A2 /* JDKSAvdeccControllerEntity.cpp in Sources */,
 				BF29701719E0A6E400A8DCEF /* us_osc_io.c in Sources */,
 				BF29703019E0A6E500A8DCEF /* us_test_allocator_heap_main.c in Sources */,
 				BF296FFE19E0A6E300A8DCEF /* us_allocator_print.c in Sources */,
@@ -1205,6 +1306,9 @@
 				BF29704919E0A6E600A8DCEF /* us_trie_rw.c in Sources */,
 				BF29702619E0A6E500A8DCEF /* us_rawnet_multi.c in Sources */,
 				BF29703519E0A6E600A8DCEF /* us_test_http_main.c in Sources */,
+				BFDBFFBE19E59A31006F82A2 /* JDKSAvdeccADPManager.cpp in Sources */,
+				BFDBFFC619E59A31006F82A2 /* JDKSAvdeccHandlerGroup.cpp in Sources */,
+				BFDBFFC719E59A31006F82A2 /* JDKSAvdeccHelpers.cpp in Sources */,
 				BF29703F19E0A6E600A8DCEF /* us_test_osc_msg_main.c in Sources */,
 				BF296FD619E0A6E200A8DCEF /* jdksaecp.c in Sources */,
 				BF29703219E0A6E500A8DCEF /* us_test_buffer_main.c in Sources */,
@@ -1218,6 +1322,7 @@
 				BF296FFB19E0A6E300A8DCEF /* pool.c in Sources */,
 				BF29701C19E0A6E500A8DCEF /* us_osc_sender_udp.c in Sources */,
 				BF29701519E0A6E400A8DCEF /* us_net.c in Sources */,
+				BFDBFFC819E59A31006F82A2 /* JDKSAvdeccNetIO.cpp in Sources */,
 				BF29702419E0A6E500A8DCEF /* us_print.c in Sources */,
 				BF29700119E0A6E400A8DCEF /* us_buffer.c in Sources */,
 				BF29702219E0A6E500A8DCEF /* us_parse.c in Sources */,
@@ -1243,6 +1348,7 @@
 				BF29700719E0A6E400A8DCEF /* us_http.c in Sources */,
 				BF296FF819E0A6E300A8DCEF /* jdksnet.c in Sources */,
 				BF296FFC19E0A6E300A8DCEF /* pools.c in Sources */,
+				BFDBFFC119E59A31006F82A2 /* JDKSAvdeccControlSender.cpp in Sources */,
 				BF29702819E0A6E500A8DCEF /* us_reactor_cpp.cpp in Sources */,
 				BF29701419E0A6E400A8DCEF /* us_net_router.c in Sources */,
 				BF29704119E0A6E600A8DCEF /* us_test_queue_main.c in Sources */,
@@ -1253,6 +1359,7 @@
 				BF29700019E0A6E300A8DCEF /* us_buffer_print.c in Sources */,
 				BF296FEA19E0A6E300A8DCEF /* jdksavdecc_maap.c in Sources */,
 				BF29703119E0A6E500A8DCEF /* us_test_allocator_main.c in Sources */,
+				BFDBFFC319E59A31006F82A2 /* JDKSAvdeccEEPromStorage.cpp in Sources */,
 				BF29701D19E0A6E500A8DCEF /* us_osc_sender.c in Sources */,
 				BF296FDE19E0A6E200A8DCEF /* jdksavdecc_aecp_print.c in Sources */,
 				BF296FEB19E0A6E300A8DCEF /* jdksavdecc_pdu_print.c in Sources */,
@@ -1272,6 +1379,7 @@
 				BF296FF619E0A6E300A8DCEF /* jdksnet_tcp.c in Sources */,
 				BF29704A19E0A6E700A8DCEF /* us_webapp_fs.c in Sources */,
 				BF29701F19E0A6E500A8DCEF /* us_packet_queue_cpp.cpp in Sources */,
+				BFDBFFC219E59A31006F82A2 /* JDKSAvdeccControlValueHolder.cpp in Sources */,
 				BF29703619E0A6E600A8DCEF /* us_test_http_server_main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
