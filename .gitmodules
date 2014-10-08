@@ -60,3 +60,7 @@
 	path = pools
 	url = ../pools.git
 	branch = devel
+[submodule "jdksavdecc-mcu"]
+	path = jdksavdecc-mcu
+	url = ../JDKSAvdeccArduino.git
+	branch = separate
